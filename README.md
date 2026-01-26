@@ -1,4 +1,4 @@
-# Job Trend 
+# Job Trend Analyzer
 
 Job Trend Analyzer is a real-time, scriptable job market analysis tool built with Python and Streamlit. It automates the extraction of job listings from platforms like LinkedIn and RemoteOK, processes the data, and presents interactive visual insights to help you monitor hiring trends, top skills, job locations, and company activity.
 
